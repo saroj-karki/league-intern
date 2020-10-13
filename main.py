@@ -1,3 +1,4 @@
+'''Main script'''
 import cv2
 
 def main():
